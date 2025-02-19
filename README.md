@@ -1,6 +1,8 @@
 # HV2LV-PowerJST
 
 ## Overview
+![Main Preview](assets/img/main.png)
+
 **HV2LV-PowerJST** is an open-source PCB designed to step down **4.8V - 15V** to a stable **3.3V** output using an **AMS1117 voltage regulator**. The board features **JST-PH connectors** for easy integration into embedded projects, IoT devices, and prototyping setups.  
 
 Designed to fit **Adafruit’s standard PCB footprint**, this module ensures compact and reliable power regulation for various low-voltage applications.
